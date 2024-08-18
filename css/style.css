@@ -1,0 +1,46 @@
+.option {
+    padding: 20px;
+    background-color: rgb(221, 113, 113);
+    margin-left: 20px;
+    height: 70px;
+    font-size: 20px;
+    color: white;
+    margin-top: 5px;
+}
+
+.answer {
+    padding: 20px;
+    margin-top: 5px;
+    height: 70px;
+    text-align: left;
+    font-size: 20px;
+    background-color: white;
+    width: 390px;
+}
+
+.container {
+    background-color: rgb(248, 222, 222);
+    width: 40%;
+    height: 450px;
+    padding-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.merge {
+    display: flex;
+    margin-bottom: 0px;
+    justify-content: center;
+}
+
+button {
+    border-style: none;
+    text-align: center;
+}
